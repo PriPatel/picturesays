@@ -1,0 +1,62 @@
+body {
+    background-image: url("image/egg-02-01.png");
+    size:50%;
+    background-repeat: repeat;
+    cursor: url('image/cursor.png'),auto;
+}
+
+#content-container{
+	
+    width: 100%;
+  text-align: center;
+     }
+
+
+#imageContent-container{
+  text-align: center;
+     }
+
+.image {
+	width:400px;
+	text-align: center;
+	position: relative;
+    top: -88px;
+}
+
+
+
+
+
+#button{
+	color:black;
+	font-family:'Space Mono';
+	width:150px;
+	background-color:#E0DB17;
+	height:32px;
+	font-size: 20px;
+	margin:auto;
+	border-radius:30px;
+	padding:13px;
+-webkit-user-select: none; /* Chrome/Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+ */
+
+/* Rules below not implemented in browsers yet */
+-o-user-select: none;
+user-select: none;
+
+}
+
+
+
+
+#tite{
+	color:black;
+	font-family:'Space Mono';
+	font-style:bold;
+	font-size:50px;
+	text-align: center;
+	padding:30px;
+
+}
+
